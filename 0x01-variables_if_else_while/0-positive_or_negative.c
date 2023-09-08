@@ -3,6 +3,12 @@
 /* more headers go there */
 
 /* betty style doc for function main goes there */
+#include <stdio.h>
+/**
+ *  main - always main
+ *
+ * Return: always 0
+ */
 int main(void)
 {
 	int n;
