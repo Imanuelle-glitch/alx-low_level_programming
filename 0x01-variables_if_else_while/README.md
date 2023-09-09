@@ -1,1 +1,1 @@
-printing alphabet a to z with a loop statement and putchar function
+print all lowercase alphabet followed by uppercase alphabet on the same line
