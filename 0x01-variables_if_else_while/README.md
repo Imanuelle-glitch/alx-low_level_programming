@@ -1,1 +1,1 @@
-print alphabet without e and q using if function in while loop
+print single base 10 digits from 0
