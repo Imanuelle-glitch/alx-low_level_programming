@@ -1,1 +1,1 @@
-print all numbers of base 16 in lowercase using putchar
+print all possible combo of single digit
