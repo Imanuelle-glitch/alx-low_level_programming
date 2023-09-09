@@ -1,1 +1,1 @@
-completing source code to print last digit of random number
+printing alphabet a to z with a loop statement and putchar function
