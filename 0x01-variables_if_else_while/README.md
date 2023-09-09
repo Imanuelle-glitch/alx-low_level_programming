@@ -1,1 +1,1 @@
-print all lowercase alphabet followed by uppercase alphabet on the same line
+print alphabet without e and q using if function in while loop
