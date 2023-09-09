@@ -1,1 +1,1 @@
-print alphabets backwards using putchar
+print all numbers of base 16 in lowercase using putchar
