@@ -1,1 +1,1 @@
-print combo of three unrepeatable digits
+print combo of two 2digit numbers
