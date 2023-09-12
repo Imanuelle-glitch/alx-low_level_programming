@@ -6,27 +6,28 @@
  */
 int main(void)
 {
-	int i, j;
+	int t1, u1, t2, u2;
 
-	for (i = 0; i <= 99; i++)
+	for (t1 = 0; t1 <= 9; t1++)
 	{
-		for (j = i; j <= 99; j++)
+		for (u1 = 0; u1 <= 9; u1++)
 		{
-			int t1 = i / 10;
-			int u1 = i % 10;
-			int t2 = j / 10;
-			int u2 = j % 10;
-
-			putchar(t1 + '0');
-			putchar(u1 + '0');
-			putchar(' ');
-			putchar(t2 + '0');
-			putchar(u2 + '0');
-
-			if (i != 99 || j != 99)
+			for (t2 = t1; t2 <= 9; t2++)
 			{
-				putchar(',');
-				putchar(' ');
+				for (u2 = u1 + 1; u2 <= 9; u2++)
+				{
+					putchar(t1 + '0');
+					putchar(u1 + '0');
+					putchar(' ');
+					putchar(t2 + '0');
+					putchar(u2 + '0');
+
+					if (!(t1 == 9 && u1 == 8 && t2 == 9 && u2 == 9))
+					{
+						putchar(',');
+						putchar(' ');
+					}
+				}
 			}
 		}
 	}
