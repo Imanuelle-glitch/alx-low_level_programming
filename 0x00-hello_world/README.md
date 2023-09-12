@@ -1,1 +1,1 @@
-c programming
+a script that compiles without linking
