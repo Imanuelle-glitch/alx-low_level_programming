@@ -1,1 +1,1 @@
-a script that generates assembly code that is compiles without assembling
+a script that performs all compilation procedures and creates an executable file
