@@ -1,1 +1,1 @@
-a script that compiles without linking
+a script that generates assembly code that is compiles without assembling
