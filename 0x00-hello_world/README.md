@@ -1,1 +1,1 @@
-print a line of words using puts function
+print a line of words using printf function
