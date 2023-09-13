@@ -1,1 +1,1 @@
-print the alphabet using _putchar function
+print alphabet ten times each with a new line
