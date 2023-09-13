@@ -1,1 +1,1 @@
-print the size of data types
+print line of words to the standard error
