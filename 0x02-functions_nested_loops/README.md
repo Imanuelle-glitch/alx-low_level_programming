@@ -1,1 +1,1 @@
-print alphabet ten times each with a new line
+check for lowercase characters
