@@ -1,1 +1,1 @@
-print a line of words using printf function
+print the size of data types
