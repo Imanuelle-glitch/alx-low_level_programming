@@ -1,1 +1,1 @@
-check for lowercase characters
+print check for lowercase and uppercase alphabets
