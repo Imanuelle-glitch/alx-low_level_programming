@@ -1,1 +1,1 @@
-print check for lowercase and uppercase alphabets
+print the sign of a number
