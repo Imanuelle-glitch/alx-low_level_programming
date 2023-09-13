@@ -1,1 +1,1 @@
-print the sign of a number
+compute the absolute value of an integer
