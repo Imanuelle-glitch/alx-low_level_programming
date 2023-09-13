@@ -1,1 +1,1 @@
-using _putchar function to print
+print the alphabet using _putchar function
