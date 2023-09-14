@@ -1,1 +1,1 @@
-print every minute of the day
+print the 9 times table
