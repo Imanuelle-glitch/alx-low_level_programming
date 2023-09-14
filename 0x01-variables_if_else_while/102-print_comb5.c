@@ -22,7 +22,7 @@ int main(void)
 					putchar(t2 + '0');
 					putchar(u2 + '0');
 
-					if (!(t1 == 9 && u1 == 8 && t2 == 9 && u2 == 9))
+					if (!(t1 == 9 && u1 == 9 && t2 == 9 && u2 == 9))
 					{
 						putchar(',');
 						putchar(' ');
