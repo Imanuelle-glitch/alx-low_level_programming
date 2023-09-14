@@ -1,1 +1,1 @@
-print last digit of an integer
+print every minute of the day
