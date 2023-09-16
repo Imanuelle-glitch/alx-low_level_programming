@@ -1,1 +1,1 @@
-a function that checks for digit
+function that multiplies two integers
