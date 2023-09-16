@@ -1,1 +1,1 @@
-function to peint numbers 0 to 9
+function that prints numbers 0 to 9 except 2 and 4
