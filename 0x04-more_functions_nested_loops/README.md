@@ -1,1 +1,1 @@
-print diagonal lines
+print squares
