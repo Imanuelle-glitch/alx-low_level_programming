@@ -1,1 +1,1 @@
-print triangles
+print prime factor
