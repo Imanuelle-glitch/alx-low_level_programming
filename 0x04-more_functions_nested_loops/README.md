@@ -1,1 +1,1 @@
-function that multiplies two integers
+function to peint numbers 0 to 9
