@@ -1,1 +1,1 @@
-print prime factor
+print numbers
